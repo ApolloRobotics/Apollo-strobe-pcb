@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-07-02T22:03:49Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Taylor Dixon <taylor@apollorobotics.ai>*%
+%TJ.B_ID,strobe*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,45.175000*%
+%TJ.B_Size_Y,35.175000*%
+M02*
